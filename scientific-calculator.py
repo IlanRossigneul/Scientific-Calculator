@@ -105,7 +105,7 @@ root = Tk()
 calc = Frame(root)
 calc.grid()
 
-root.title("Calculator")
+root.title("Scientific Calculator")
 text_box = Entry(calc, justify=RIGHT,width=30,font="Times 16 bold")
 text_box.grid(row = 0, column = 0,columnspan = 8,padx=30, pady = 30)
 text_box.insert(0, "0")
