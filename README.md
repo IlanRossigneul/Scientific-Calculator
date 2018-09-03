@@ -1,6 +1,6 @@
 # Scientific-Calculator
 
-#### Project realized in half a day after three days learning Python at the Coding Academy by Epitech.
+#### Project realized in half a day after two days learning Python at the Coding Academy by Epitech.
 
 We were asked to create a scientific calculator in Python. I decided to add the import tkinter to manage the display of the calculator.
 
